@@ -1,0 +1,18 @@
+#Página Home
+texto_buscar_pagina_inicial: 'input[id*=strBusca]'
+botao_buscar_pagina_inicial: 'button[id*=btnOK]'
+texto_resultado_pagina_resultado: '.name.fn'
+imagem_produto: '.nm-product-img'
+
+#Páginas finalizar compra
+botao_comprar_detalhes: '#btnAdicionarCarrinho'
+botao_continuar_servicos: '#btnContinuar'
+botao_concluir_compra: '#btnComprar'
+texto_email: '#Email'
+texto_senha: '#Senha'
+botao_cliente_login: '#btnClienteLogin'
+botao_concluir_endereco: '#btSelecionarPagamento'
+pagamento_boleto: '#boleto'
+botao_finalizar_compra_boleto: '#btPagBoleto'
+botao_imprimir_boleto: '.bt.btBoleto.ng-binding'
+
